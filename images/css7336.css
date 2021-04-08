@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Asar';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(http://fonts.gstatic.com/s/asar/v8/sZlLdRyI6TBIbkEaCA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(http://fonts.gstatic.com/s/nunito/v16/XRXV3I6Li01BKofINeaE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 900;
+  font-display: fallback;
+  src: url(http://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofAtsGUYevN.ttf) format('truetype');
+}
